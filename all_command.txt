@@ -143,4 +143,6 @@ Swap:              0           0           0
   140  history >> all_command.txt
 
 
-this is rohit parihar
+this is rohit parihar before revert
+
+this is new rever
