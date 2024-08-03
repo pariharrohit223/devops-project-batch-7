@@ -141,3 +141,6 @@ Swap:              0           0           0
   138  free -m > all_command.txt 
   139  vi all_command.txt 
   140  history >> all_command.txt
+
+
+this is rohit parihar
