@@ -144,12 +144,16 @@ Swap:              0           0           0
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is rohit parihar before revert
 
 this is new reve r
 
 
 this is 2nd revert 
+=======
+this is rohit parihar
+>>>>>>> parent of b34277b ( after 1)
 =======
 this is rohit parihar
 >>>>>>> parent of b34277b ( after 1)
