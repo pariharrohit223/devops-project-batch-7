@@ -1,0 +1,143 @@
+               total        used        free      shared  buff/cache   available
+Mem:             957         380         274           0         460         576
+Swap:              0           0           0
+    1  la
+    2  df -h
+    3  ls
+    4  ps -ef|grep pmon
+    5  ps -ef|
+    6  ps -ef
+    7  docker ps
+    8  sudo snap install docker
+    9  docker ps
+   10  sudo usermod -aG docker ${USER}
+   11  docker ps
+   12  su -s ${USER}
+   13  docker run hello-world
+   14  sudo chown "$USER":"$USER" /home/"$USER"/.docker -R
+   15  docker ps
+   16  sudo chmod 666 /var/run/docker.sock
+   17  docker ps
+   18  yum install docker
+   19  sudo su
+   20  df -h
+   21  mkdir /script
+   22  cd /home/ubuntu/
+   23  ll
+   24  mkdir script
+   25  cd script/
+   26  vi hello.sh
+   27  ls -lrt
+   28  chmod 700 hello.sh 
+   29  ls -lrt
+   30  ./hello.sh 
+   31  df -h 
+   32  df -f | awk '{print $2}'
+   33  df -h | awk '{print $2}'
+   34  vi hello.sh
+   35  ./hello.sh 
+   36  df -h |awk 'NR==2 {print $2}
+   37  '
+   38  df -h |awk 'NR==2 {print $2}'
+   39  vi hello.sh 
+   40  ./hello.sh 
+   41  vi hello.sh 
+   42  ./hello.sh 
+   43  vi hello.sh 
+   44  ./hello.sh 
+   45  vi hello.sh 
+   46  ./hello.sh 
+   47  vi hello.sh 
+   48  ./hello.sh 
+   49  vi hello.sh 
+   50  ./hello.sh 
+   51  vi hello.sh 
+   52  ./hello.sh 
+   53  vi hello.sh 
+   54  ./hello.sh 
+   55  vi hello.sh 
+   56  ./hello.sh 
+   57  :Q!
+   58  :q!
+   59  ./hello.sh 
+   60  vi hello.sh 
+   61  ./hello.sh 
+   62  "Q!
+   63  :q!
+   64  vi hello.sh 
+   65  ./hello.sh 
+   66  :Q!
+   67  vi hello.sh 
+   68  ./hello.sh 
+   69  uptime
+   70  git
+   71  git --version
+   72  ls
+   73  mkdir git
+   74  mkdir git-tutorial
+   75  cd git-tutorial/
+   76  mkdir devops-project-batch-7
+   77  ls
+   78  mkdir devops-practice-project
+   79  ls
+   80  cd devops-project-batch-7/
+   81  gir init
+   82  git init
+   83  ls
+   84  ls -la
+   85  cd .git/
+   86  ls
+   87  cd ..
+   88  ls
+   89  ls -a
+   90  touch laila.txt
+   91  ls
+   92  touch majnu.txt
+   93  ls
+   94  ls -lrt
+   95  git status
+   96  ls
+   97  ls -lrt
+   98  git status
+   99  git add laila.txt 
+  100  git status
+  101  git add majnu.txt 
+  102  git status
+  103  git rm --cached laila.txt 
+  104  git status
+  105  git add laila.txt 
+  106  git status
+  107  git commit -m "intial commint - both are tracked "
+  108  git status
+  109  git log
+  110  ls
+  111  s
+  112  lls
+  113  skmk 
+  114  ls
+  115  cd git-tutorial/
+  116  ll
+  117  cd devops-project-batch-7/
+  118  l
+  119  ls
+  120  git status
+  121  ls -a
+  122  rm majnu.txt 
+  123  ls
+  124  git status
+  125  git logs
+  126  git log
+  127  ls
+  128  git status
+  129  git restore majnu.txt 
+  130  ls
+  131  history
+  132  history > all_command.xt
+  133  history > all_command.txt
+  134  vi all_command.
+  135  vi all_command.txt 
+  136  echo "rohit" >>all_command.txt 
+  137  vi all_command.txt 
+  138  free -m > all_command.txt 
+  139  vi all_command.txt 
+  140  history >> all_command.txt
