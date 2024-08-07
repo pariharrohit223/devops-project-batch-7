@@ -1,4 +1,6 @@
 
 
 this is new feature call "Feature 2"
-very cool feature 
+very cool feature
+
+new addition  
