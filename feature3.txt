@@ -1,3 +1,7 @@
 This is new feature called "feature 3"
 
+<<<<<<< HEAD
 this is done changes on dev branch feature file 3
+=======
+ this is master branch file feature 3 
+>>>>>>> cee46a1 ( feature 3 change done)
