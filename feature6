@@ -11,5 +11,11 @@ added data in dev branch
 
 for sqush commit
 
+<<<<<<< HEAD
 2nd sqash commit
+<<<<<<< HEAD
 >>>>>>> dev_1
+=======
+=======
+>>>>>>> b30e855 (Update feature6 squash 1)
+>>>>>>> 9f3aecd ( b30e855 checry pick)
