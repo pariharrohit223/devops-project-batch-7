@@ -5,4 +5,11 @@ add some line in feature 6 after create
 create new repository (clone ) and doing fetch opration
 =======
 added data in dev branch
+<<<<<<< HEAD
 >>>>>>> dev
+=======
+
+for sqush commit
+
+2nd sqash commit
+>>>>>>> dev_1
