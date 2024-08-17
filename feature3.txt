@@ -4,4 +4,7 @@ This is new feature called "feature 3"
 this is done changes on dev branch feature file 3
 =======
  this is master branch file feature 3 
->>>>>>> cee46a1 ( feature 3 change done)
+>>>>>>> cee46a1 ( feature 3 change done)i
+
+
+after git clean -f

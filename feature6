@@ -1,4 +1,8 @@
 this feture 6 added in dev
 add some line in feature 6 after create 
 
+<<<<<<< HEAD
 create new repository (clone ) and doing fetch opration
+=======
+added data in dev branch
+>>>>>>> dev
